@@ -1,0 +1,9 @@
+body{
+    background-image: url('img.jpg');
+}
+li{
+    transition: background-color 2s;
+}
+li:hover{
+    background-color:bisque;
+}
