@@ -8,6 +8,8 @@ li:hover{
 h1{
     font-size: 10px;
     font-family: 'Times New Roman', Times, serif;
+    
+    text-align: center;
 }
 
 a{
@@ -15,4 +17,9 @@ a{
 }
 a:hover{
     background-color: cornsilk;
+}
+.card{
+    margin:7px;
+    padding: 3px;
+
 }
