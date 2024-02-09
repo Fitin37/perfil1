@@ -2,14 +2,14 @@ body{
     background-image: url('img.jpg');
 }
 li{
-    transition: background-color 0.5s;
+    transition: background-color 7s;
 }
 li:hover{
-    background-color:bisque;
+    background-color: cornsilk;
 }
 a{
     transition: background-color o.5s;
 }
 a:hover{
-    background-color: bisque;
+    background-color: cornsilk;
 }
