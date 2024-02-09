@@ -2,7 +2,7 @@ body{
     background-image: url('img.jpg');
 }
 li{
-    transition: background-color 7s;
+    transition: background-color 8s;
 }
 li:hover{
     background-color: cornsilk;
