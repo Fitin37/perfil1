@@ -13,3 +13,14 @@ a{
 a:hover{
     background-color: cornsilk;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    transition: background-color 8s;
+    transition: color 8s;
+}
+footer:hover{
+    background-color: whitesmoke;
+    color: black;
+}
