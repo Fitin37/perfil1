@@ -18,4 +18,20 @@ a{
 a:hover{
     background-color: cornsilk;
 }
+.card{
+    display: flex;
+    margin:7px;
+    padding: 3px;
+    transition: background-color 8ms;
+    transition: color 8s;
+    align-items: center;
 
+}
+.card:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+body{
+    background-color: bisque;
+
+}
